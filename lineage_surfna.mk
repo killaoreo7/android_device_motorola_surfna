@@ -32,3 +32,4 @@ PRODUCT_BRAND := motorola
 PRODUCT_DEVICE := surfna
 PRODUCT_MANUFACTURER := motorola
 PRODUCT_NAME := lineage_surfna
+PRODUCT_MODEL := moto e6
